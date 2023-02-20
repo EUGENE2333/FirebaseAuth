@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517742091801",
+    "project_id": "vsauce-7ae2b",
+    "storage_bucket": "vsauce-7ae2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517742091801:android:78f323e89142ca21029488",
+        "android_client_info": {
+          "package_name": "com.example.vsauce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517742091801-qifddqa68a1li85fb7hrlm9m3fq2416u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7NblLaCSpBZUfuUWqCNToG2LEWMBbZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517742091801-qifddqa68a1li85fb7hrlm9m3fq2416u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
